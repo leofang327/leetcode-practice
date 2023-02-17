@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Description: 1-两数之和
+ * @Description: 1-两数之和（模拟/hash表）
  * @Author: Fang Xiaojun
  * @Date: 2023/2/17
  * @Version: V1.0

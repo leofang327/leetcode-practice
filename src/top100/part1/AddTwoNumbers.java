@@ -3,7 +3,7 @@ package top100.part1;
 import top100.entity.ListNode;
 
 /**
- * @Description: 2-两数相加
+ * @Description: 2-两数相加（模拟/链表）
  * @Author: Fang Xiaojun
  * @Date: 2023/2/17
  * @Version: V1.0
