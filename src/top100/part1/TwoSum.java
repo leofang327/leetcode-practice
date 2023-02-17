@@ -1,9 +1,15 @@
-package top100;
+package top100.part1;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @Description: 1-两数之和
+ * @Author: Fang Xiaojun
+ * @Date: 2023/2/17
+ * @Version: V1.0
+ */
 public class TwoSum {
 
     // 暴力双循环
